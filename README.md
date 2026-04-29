@@ -7,7 +7,7 @@ Projeto acadêmico desenvolvido com PySpark utilizando duas tecnologias modernas
 
 ## Dataset utilizado
 
-Campeonato Brasileiro (CSV)
+Campeonato Brasileiro de 2005 a 2024 (CSV)
 
 ## Objetivos
 
