@@ -1,0 +1,16 @@
+site_name: Projeto Lakehouse Brasileirão
+site_description: Pipeline de dados com PySpark, Delta Lake e Apache Iceberg
+site_author: Raul Castro
+
+theme:
+  name: material
+
+nav:
+  - Início: index.md
+  - Arquitetura: arquitetura.md
+  - Dataset: dataset.md
+  - PySpark: pyspark.md
+  - Delta Lake: delta_lake.md
+  - Apache Iceberg: iceberg.md
+  - Pipeline Bronze/Silver/Gold: pipeline.md
+  - Conclusão: conclusao.md
